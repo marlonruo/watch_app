@@ -26,7 +26,6 @@
         <preference name="ShowSplashScreenSpinner" value="false" />
         <preference name="StatusBarOverlaysWebView" value="false" />
         <preference name="StatusBarBackgroundColor" value="#cf1078" />
-        <preference name="android-minSdkVersion" value="26"/>
         <icon density="ldpi" src="res/icon/android/ldpi.png" />
         <icon density="mdpi" src="res/icon/android/mdpi.png" />
         <icon density="hdpi" src="res/icon/android/hdpi.png" />
@@ -47,8 +46,4 @@
     <plugin name="cordova-plugin-local-notification" spec="^0.9.0-beta.2" />
     <plugin name="cordova-plugin-inappbrowser" spec="^2.0.2" />
     <plugin name="cordova-plugin-background-mode" spec="^0.7.2" />
-    <plugin name="cordova-plugin-facebook4" spec="^1.9.1">
-        <variable name="APP_ID" value="1802881463096989" />
-        <variable name="APP_NAME" value="WatchME!" />
-    </plugin>
 </widget>
