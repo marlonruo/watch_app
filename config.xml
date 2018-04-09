@@ -26,6 +26,7 @@
         <preference name="ShowSplashScreenSpinner" value="false" />
         <preference name="StatusBarOverlaysWebView" value="false" />
         <preference name="StatusBarBackgroundColor" value="#cf1078" />
+        <preference name="android-minSdkVersion" value="17"/>
         <icon density="ldpi" src="res/icon/android/ldpi.png" />
         <icon density="mdpi" src="res/icon/android/mdpi.png" />
         <icon density="hdpi" src="res/icon/android/hdpi.png" />
